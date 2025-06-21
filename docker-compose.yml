@@ -8,4 +8,4 @@ services:
     network_mode: bridge
     restart: always
     ports:
-      - "8022:80
+      - "8022:80"
